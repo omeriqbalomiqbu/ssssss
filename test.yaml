@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   title: Simple API overview
   version: v2
-paths"'/><b>Test</b>"'/><script>alert(1);</script>#ass **test**:
+paths<b>SSS</B>:
   /:
     get:
       operationId: listVersionsv2
